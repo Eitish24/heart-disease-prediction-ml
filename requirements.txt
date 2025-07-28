@@ -1,5 +1,5 @@
-Flask
-joblib
-numpy
-pymongo
-scikit-learn
+Flask==2.2.5
+pymongo==4.5.0
+joblib==1.3.2
+numpy==1.24.3
+gunicorn==20.1.0
