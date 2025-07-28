@@ -1,6 +1,7 @@
 # Build tools
-setuptools>=65.0
-wheel
+setuptools>=68.0.0
+wheel>=0.41.0
+
 
 # Web framework
 Flask==2.2.5
